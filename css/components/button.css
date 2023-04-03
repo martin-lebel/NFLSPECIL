@@ -1,0 +1,15 @@
+a:hover{
+	background-color: #bc2516;
+}
+.btn-blue {
+background-color: #041246 ;
+padding: 15px 20px;
+border-radius: 4px;
+color: #ebe9e4;
+font-weight: bold;
+font-family: 'Cinzel Decorative', sans-serif;
+}
+a:hover {
+background-color: #bc2516;
+transition: 0.4s;
+}
